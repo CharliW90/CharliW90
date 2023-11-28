@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A mid-life career change to coding...</h3>
 
 - 👩‍💻️ I’m currently studying with **Northcoders**
 
