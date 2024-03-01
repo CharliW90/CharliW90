@@ -6,7 +6,7 @@
 
 - ☁️ I’m looking to become a **Cloud Engineer**
 
-- 💽️ I’m provisioning all sorts of stuff in the cloud
+- 💽️ I’m provisioning all sorts of stuff with AWS
 
 - 🃏 I'm weirdly obsessed with Test-Driven Development, and building test suites
 
