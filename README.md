@@ -14,8 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/charli-e-williams" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="charli-e-williams" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12754546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="charliw90" height="30" width="40" /></a>
+  <a href="https://discord.com/users/306203382740287500" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="arcadius1201" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/charli-e-williams" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="charli-e-williams" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/12754546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="charliw90" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
