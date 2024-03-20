@@ -23,9 +23,11 @@
 <p align="left">
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://app.circleci.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://discord.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://editor.p5js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/p5js/p5js-original.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
