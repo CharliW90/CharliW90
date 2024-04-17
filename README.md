@@ -1,16 +1,38 @@
 <h3 align="center">A mid-life career change to coding...</h3>
 
-- 👩‍💻️ I’m currently studying with **Northcoders**
+- 👩‍💻️ I’m a **Northcoders** Bootcamp Graduate
 
-- 🌱 I’m also interested in **bouldering, brewing and barista skills**
+- 🌱 I’m also interested in **rock climbing, brewing and barista skills**
 
-- ☁️ I’m looking to become a **Cloud Engineer**
+- 💽️ I’m looking to join a great team, to build on my skills as a developer
 
-- 💽️ I’m provisioning all sorts of stuff with AWS
+- ☁️ I've been learning to provision all sorts of cloud architecture on AWS, and I'm now researching Azure and Google Cloud
 
-- 🃏 I'm weirdly obsessed with Test-Driven Development, and building test suites
+- 🃏 I really enjoyed learning about Test-Driven Development, and I got far too excited about building test suites
 
-- 💬 Ask me about **my previous career as an Attorney**
+- 💬 Other things you might ask me about:
+  - my previous career as an **Attorney**
+  - having two **vicars** for parents
+  - my work with Manchester **Trans Liberation** Assembly
+  - the brief period of time that I ran a **village pub**
+
+<h3>What am I up to?</h3>
+<h4>Gaming</h4>
+I'm playing <a href="https://en.wikipedia.org/wiki/Fallout_4">Fallout 4</a> (again!)
+
+*I've just finished <a href="https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt">The Witcher 3</a> (took me long enough!)*
+
+<h4>Climbing</h4>
+<p>I'm primarily <a href="https://en.wikipedia.org/wiki/Bouldering">indoor Bouldering</a>, and try to climb 3-4 times a week.  I'm currently pushing myself to complete <a href="https://en.wikipedia.org/wiki/Bouldering#Grading">V5</a> climbs, having become more comfortable with <a href="https://en.wikipedia.org/wiki/Bouldering#Grading">V3-4</a> climbs.</p>
+
+<h4>Brewing/Fermentation</h4>
+<p>I'm making <a href="https://en.wikipedia.org/wiki/Kimchi">Kimchi</a> with some <a href="https://en.wikipedia.org/wiki/Allium_ursinum">Wild Garlic</a> and <a href="https://en.wikipedia.org/wiki/Allium_triquetrum">Three-Cornered Leek</a> that I foraged on a walk along the Mersey, in <a href="https://maps.app.goo.gl/8ahj9pzQtAtahC8c8">Didsbury</a></p>
+
+<h4>Coding Projects</h4>
+
+- I'm re-visiting <a href="https://adventofcode.com">Advent of Code 2023</a> (my solutions are <a href="https://github.com/CharliW90/advent_of_code-2023">here</a>) - my plan is to complete those that I didn't get to in December, and refactor the completed ones, but also to additionally solve them all in Python in order to showcase my Python abilities (since most of my github is javascript)
+
+- I've taken on the task of 'sprucing up' an existing website for a church - I am constrained by many restrictions (not least being not allowed to change the host, nor move away from WordPress) but you can take a look at my handiwork <a href="https://stbridgetschurch.org.uk">here</a>, and feel free to give me some pointers (I'm always keen to learn more frontend skills!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +41,7 @@
   <a href="https://stackoverflow.com/users/12754546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="charliw90" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Tech Stack</h3>
 <p align="left">
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -38,3 +60,4 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
+<p>I am always excited to learn new tech, and expand on the tech I know; if you've seen a gap in my skillset, or think there's a cool resource I should check out, please let me know!</p>
