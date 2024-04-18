@@ -20,27 +20,31 @@
 <summary><h3>What am I up to?</h3></summary>
 <h4>Gaming</h4>
 
-- I'm playing [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) (again!)
+![Progress](https://progress-bar.dev/2) I've just started playing [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) (again!)
 
-- *I've just finished [The Witcher 3](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) (took me long enough!)*
+![Progress](https://progress-bar.dev/100) *I've just finished [The Witcher 3](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) (took me long enough!)*
 
 <h4>Climbing</h4>
 
-- I'm primarily [indoor Bouldering](https://en.wikipedia.org/wiki/Bouldering), and try to climb 3-4 times a week.  I'm currently pushing myself to complete V5 [grade](https://en.wikipedia.org/wiki/Bouldering#Grading) climbs, having become more comfortable with V3 and V4 climbs.
+I'm primarily [indoor Bouldering](https://en.wikipedia.org/wiki/Bouldering), and I try to climb 3-4 times a week.  I'm currently pushing myself to complete V5 [grade](https://en.wikipedia.org/wiki/Bouldering#Grading) climbs, having become more comfortable with V3 and V4 climbs
 
 <h4>Brewing/Fermentation</h4>
 
-- I'm making [Kimchi](https://en.wikipedia.org/wiki/Kimchi) with some [Wild Garlic](https://en.wikipedia.org/wiki/Allium_ursinum) and [Three-Cornered Leek](https://en.wikipedia.org/wiki/Allium_triquetrum) that I foraged on a walk along the Mersey, in [Didsbury](https://maps.app.goo.gl/8ahj9pzQtAtahC8c8)
+I'm making [Kimchi](https://en.wikipedia.org/wiki/Kimchi) with some [Wild Garlic](https://en.wikipedia.org/wiki/Allium_ursinum) and [Three-Cornered Leek](https://en.wikipedia.org/wiki/Allium_triquetrum) that I foraged on a walk along the Mersey, in [Didsbury](https://maps.app.goo.gl/8ahj9pzQtAtahC8c8).  The fermentation process should take about 11 days.
 
 <h4>TV</h4>
 
-- Working my way through the [Dimension 20](https://en.wikipedia.org/wiki/Dimension_20) series - just started on **Tiny Heist**
+Working my way through the [Dimension 20](https://en.wikipedia.org/wiki/Dimension_20) series - just started on **Tiny Heist**
 
 <h4>Coding Projects</h4>
 
-- I'm re-visiting <a href="https://adventofcode.com">Advent of Code 2023</a> (my solutions are <a href="https://github.com/CharliW90/advent_of_code-2023">here</a>) - my plan is to complete those that I didn't get to in December, and refactor the completed ones, but also to additionally solve them all in Python in order to showcase my Python abilities (since most of my github is javascript)
+I'm re-visiting <a href="https://adventofcode.com">Advent of Code 2023</a> - my plan is to complete those that I didn't get to in December, and refactor the completed ones, but also to additionally solve them all in Python in order to showcase my Python abilities (since most of my github is javascript).  My solutions are [here](https://github.com/CharliW90/advent_of_code-2023).
 
-- I've taken on the task of 'sprucing up' an existing website for a church - I am constrained by many restrictions (not least being not allowed to change the host, nor move away from WordPress) but you can take a look at my handiwork <a href="https://stbridgetschurch.org.uk">here</a>, and feel free to give me some pointers (I'm always keen to learn more frontend skills!)
+![Progress](https://progress-bar.dev/16/?scale=25&title=&suffix=%20solutions&width=120) JavaScript
+
+![Progress](https://progress-bar.dev/0/?scale=25&title=&suffix=%20solutions&width=120) Python
+
+I've also taken on the task of 'sprucing up' an existing website for a church - I am constrained by many restrictions (not least that I'm not allowed to change the host, nor move away from WordPress) but you can take a look at my handiwork [here](https://stbridgetschurch.org.uk), and feel free to give me some pointers (I'm always keen to learn more frontend skills!)
 
 </details>
 
