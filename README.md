@@ -2,7 +2,7 @@
 
 - 👩‍💻️ I’m a **Northcoders** Bootcamp Graduate
 
-- 🌱 I’m also interested in **rock climbing, brewing and barista skills**
+- 🌱 I’m also interested in **rock climbing, brewing & fermenting and barista skills**
 
 - 💽️ I’m looking to join a great team, to build on my skills as a developer
 
@@ -16,23 +16,34 @@
   - my work with Manchester **Trans Liberation** Assembly
   - the brief period of time that I ran a **village pub**
 
-<h3>What am I up to?</h3>
+<details>
+<summary><h3>What am I up to?</h3></summary>
 <h4>Gaming</h4>
-I'm playing <a href="https://en.wikipedia.org/wiki/Fallout_4">Fallout 4</a> (again!)
 
-*I've just finished <a href="https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt">The Witcher 3</a> (took me long enough!)*
+- I'm playing [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) (again!)
+
+- *I've just finished [The Witcher 3](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) (took me long enough!)*
 
 <h4>Climbing</h4>
-<p>I'm primarily <a href="https://en.wikipedia.org/wiki/Bouldering">indoor Bouldering</a>, and try to climb 3-4 times a week.  I'm currently pushing myself to complete <a href="https://en.wikipedia.org/wiki/Bouldering#Grading">V5</a> climbs, having become more comfortable with <a href="https://en.wikipedia.org/wiki/Bouldering#Grading">V3-4</a> climbs.</p>
+
+- I'm primarily [indoor Bouldering](https://en.wikipedia.org/wiki/Bouldering), and try to climb 3-4 times a week.  I'm currently pushing myself to complete V5 [grade](https://en.wikipedia.org/wiki/Bouldering#Grading) climbs, having become more comfortable with V3 and V4 climbs.
 
 <h4>Brewing/Fermentation</h4>
-<p>I'm making <a href="https://en.wikipedia.org/wiki/Kimchi">Kimchi</a> with some <a href="https://en.wikipedia.org/wiki/Allium_ursinum">Wild Garlic</a> and <a href="https://en.wikipedia.org/wiki/Allium_triquetrum">Three-Cornered Leek</a> that I foraged on a walk along the Mersey, in <a href="https://maps.app.goo.gl/8ahj9pzQtAtahC8c8">Didsbury</a></p>
+
+- I'm making [Kimchi](https://en.wikipedia.org/wiki/Kimchi) with some [Wild Garlic](https://en.wikipedia.org/wiki/Allium_ursinum) and [Three-Cornered Leek](https://en.wikipedia.org/wiki/Allium_triquetrum) that I foraged on a walk along the Mersey, in [Didsbury](https://maps.app.goo.gl/8ahj9pzQtAtahC8c8)
+
+<h4>TV</h4>
+
+- Working my way through the [Dimension 20](https://en.wikipedia.org/wiki/Dimension_20) series - just started on **Tiny Heist**
 
 <h4>Coding Projects</h4>
 
 - I'm re-visiting <a href="https://adventofcode.com">Advent of Code 2023</a> (my solutions are <a href="https://github.com/CharliW90/advent_of_code-2023">here</a>) - my plan is to complete those that I didn't get to in December, and refactor the completed ones, but also to additionally solve them all in Python in order to showcase my Python abilities (since most of my github is javascript)
 
 - I've taken on the task of 'sprucing up' an existing website for a church - I am constrained by many restrictions (not least being not allowed to change the host, nor move away from WordPress) but you can take a look at my handiwork <a href="https://stbridgetschurch.org.uk">here</a>, and feel free to give me some pointers (I'm always keen to learn more frontend skills!)
+
+</details>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
