@@ -20,7 +20,7 @@
 <summary><h3>What am I up to?</h3></summary>
 <h4>Gaming</h4>
 
-![Progress](https://progress-bar.dev/2) I've just started playing [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) (again!)
+![Progress](https://progress-bar.dev/3) I've just started playing [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) (again!)
 
 ![Progress](https://progress-bar.dev/100) *I've just finished [The Witcher 3](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) (took me long enough!)*
 
@@ -37,6 +37,13 @@ I'm making [Kimchi](https://en.wikipedia.org/wiki/Kimchi) with some [Wild Garlic
 Working my way through the [Dimension 20](https://en.wikipedia.org/wiki/Dimension_20) series - just started on **Tiny Heist**
 
 <h4>Coding Projects</h4>
+<picture>
+  <source srcset="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_large.svg" height="32" media="(prefers-color-scheme: light)">
+  <source srcset="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.svg" height="32" media="(prefers-color-scheme: dark)">
+  <img alt="free code camp logo dark and light versions" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg">
+</picture>
+
+I'm speedrunning my way through <a href="https://www.freecodecamp.org/">freeCodeCamp</a>
 
 I'm re-visiting <a href="https://adventofcode.com">Advent of Code 2023</a> - my plan is to complete those that I didn't get to in December, and refactor the completed ones, but also to additionally solve them all in Python in order to showcase my Python abilities (since most of my github is javascript).  My solutions are [here](https://github.com/CharliW90/advent_of_code-2023).
 
@@ -59,10 +66,22 @@ I've also taken on the task of 'sprucing up' an existing website for a church - 
 <h3 align="left">My Tech Stack</h3>
 <p align="left">
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source srcset="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" media="(prefers-color-scheme: light)">
+      <source srcset="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" media="(prefers-color-scheme: dark)">
+      <img alt="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    </picture>
+  </a>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://app.circleci.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" alt="circle-ci" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://app.circleci.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source srcset="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" width="40" height="40" media="(prefers-color-scheme: light)">
+      <source srcset="https://media.trustradius.com/product-logos/4u/4L/OCS8PRN308HT.JPEG" width="40" height="40" media="(prefers-color-scheme: dark)">
+      <img alt="aws" src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg">
+    </picture>
+  </a>&nbsp;&nbsp;
   <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" alt="argo-cd" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-plain-wordmark.svg" alt="prometheus" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
