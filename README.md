@@ -30,7 +30,7 @@ I'm primarily [indoor Bouldering](https://en.wikipedia.org/wiki/Bouldering), and
 
 <h4>Brewing/Fermentation</h4>
 
-I'm making [Kimchi](https://en.wikipedia.org/wiki/Kimchi) with some [Wild Garlic](https://en.wikipedia.org/wiki/Allium_ursinum) and [Three-Cornered Leek](https://en.wikipedia.org/wiki/Allium_triquetrum) that I foraged on a walk along the Mersey, in [Didsbury](https://maps.app.goo.gl/8ahj9pzQtAtahC8c8).  The fermentation process should take about 11 days.
+I'm currently enjoying the [Kimchi](https://en.wikipedia.org/wiki/Kimchi) that I made with some [Wild Garlic](https://en.wikipedia.org/wiki/Allium_ursinum) and [Three-Cornered Leek](https://en.wikipedia.org/wiki/Allium_triquetrum) that I foraged on a walk along the Mersey, in [Didsbury](https://maps.app.goo.gl/8ahj9pzQtAtahC8c8).  The fermentation process took longer than expected, at 15 days.
 
 <h4>TV</h4>
 
