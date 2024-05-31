@@ -38,7 +38,7 @@ Working my way through the [Dimension 20](https://en.wikipedia.org/wiki/Dimensio
 
 <h4>Coding Projects</h4>
 
-I spend my Mon-Fri, 9-5 working on a Discord Bot project for a non-profit group.  This involves building & maintaining APIs, developing and improving a Discord Bot, database management, interactions with Google Forms API, and a React.js front-end.
+I spend my Mon-Fri, 9-5 working on a [Discord Bot project](https://github.com/CharliW90/quizBot) for a non-profit group.  This involves building & maintaining APIs, developing and improving a Discord Bot, database management, interactions with Google Forms API, and a React.js front-end.
 
 I'm re-visiting <a href="https://adventofcode.com">Advent of Code 2023</a> - my plan is to complete those that I didn't get to in December, and refactor the completed ones, but also to additionally solve them all in Python in order to showcase my Python abilities (since most of my github is javascript).  My solutions are [here](https://github.com/CharliW90/advent_of_code-2023).
 
