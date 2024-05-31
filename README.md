@@ -34,7 +34,7 @@ I'm currently enjoying the [Kimchi](https://en.wikipedia.org/wiki/Kimchi) that I
 
 <h4>TV</h4>
 
-Working my way through the [Dimension 20](https://en.wikipedia.org/wiki/Dimension_20) series - just started on **Tiny Heist**
+Working my way through the [Dimension 20](https://en.wikipedia.org/wiki/Dimension_20) series - currently on **Fantasy High: Sophomore Year**
 
 <h4>Coding Projects</h4>
 
