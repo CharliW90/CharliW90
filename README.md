@@ -20,7 +20,7 @@
 <summary><h3>What am I up to?</h3></summary>
 <h4>Gaming</h4>
 
-![Progress](https://progress-bar.dev/3) I've just started playing [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) (again!)
+![Progress](https://progress-bar.dev/14) I've just started playing [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) (again!)
 
 ![Progress](https://progress-bar.dev/100) *I've just finished [The Witcher 3](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) (took me long enough!)*
 
@@ -37,13 +37,8 @@ I'm currently enjoying the [Kimchi](https://en.wikipedia.org/wiki/Kimchi) that I
 Working my way through the [Dimension 20](https://en.wikipedia.org/wiki/Dimension_20) series - just started on **Tiny Heist**
 
 <h4>Coding Projects</h4>
-<picture>
-  <source srcset="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_large.svg" height="32" media="(prefers-color-scheme: light)">
-  <source srcset="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.svg" height="32" media="(prefers-color-scheme: dark)">
-  <img alt="free code camp logo dark and light versions" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg">
-</picture>
 
-I'm speedrunning my way through <a href="https://www.freecodecamp.org/">freeCodeCamp</a>
+I spend my Mon-Fri, 9-5 working on a Discord Bot project for a non-profit group.  This involves building & maintaining APIs, developing and improving a Discord Bot, database management, interactions with Google Forms API, and a React.js front-end.
 
 I'm re-visiting <a href="https://adventofcode.com">Advent of Code 2023</a> - my plan is to complete those that I didn't get to in December, and refactor the completed ones, but also to additionally solve them all in Python in order to showcase my Python abilities (since most of my github is javascript).  My solutions are [here](https://github.com/CharliW90/advent_of_code-2023).
 
