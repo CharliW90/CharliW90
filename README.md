@@ -20,7 +20,7 @@
 <summary><h3>What am I up to?</h3></summary>
 <h4>Gaming</h4>
 
-![Progress](https://progress-bar.dev/14) I've just started playing [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) (again!)
+![Progress](https://progress-bar.dev/36) I've just started playing [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) (again!)
 
 ![Progress](https://progress-bar.dev/100) *I've just finished [The Witcher 3](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) (took me long enough!)*
 
