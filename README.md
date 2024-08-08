@@ -20,9 +20,9 @@
 <summary><h3>What am I up to?</h3></summary>
 <h4>Gaming</h4>
 
-![Progress](https://progress-bar.dev/36) I've just started playing [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) (again!)
+I've just started playing [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) (again!)
 
-![Progress](https://progress-bar.dev/100) *I've just finished [The Witcher 3](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) (took me long enough!)*
+*I've just finished [The Witcher 3](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) (took me long enough!)*
 
 <h4>Climbing</h4>
 
@@ -38,13 +38,11 @@ Working my way through the [Dimension 20](https://en.wikipedia.org/wiki/Dimensio
 
 <h4>Coding Projects</h4>
 
-I spend my Mon-Fri, 9-5 working on a [Discord Bot project](https://github.com/CharliW90/quizBot) for a non-profit group.  This involves building & maintaining APIs, developing and improving a Discord Bot, database management, interactions with Google Forms API, and a React.js front-end.
+I spend my Mon-Fri, 9-5, working on my coding projects:
 
-I'm re-visiting <a href="https://adventofcode.com">Advent of Code 2023</a> - my plan is to complete those that I didn't get to in December, and refactor the completed ones, but also to additionally solve them all in Python in order to showcase my Python abilities (since most of my github is javascript).  My solutions are [here](https://github.com/CharliW90/advent_of_code-2023).
+- In order to learn python I have decided to try to make a playable CLI version of one of my favourite board games 'Machi Koro' - it's a WIP, [here](https://github.com/CharliW90/pp-machi-koro).
 
-![Progress](https://progress-bar.dev/16/?scale=25&title=&suffix=%20solutions&width=120) JavaScript
-
-![Progress](https://progress-bar.dev/0/?scale=25&title=&suffix=%20solutions&width=120) Python
+- I am debugging, maintaining, and improving my [Discord Bot project](https://github.com/CharliW90/quizBot), which includes custom APIs, a Discord Bot, firestore database management, interactions with Google Forms API, and a React.js front-end.
 
 I've also taken on the task of 'sprucing up' an existing website for a church - I am constrained by many restrictions (not least that I'm not allowed to change the host, nor move away from WordPress) but you can take a look at my handiwork [here](https://stbridgetschurch.org.uk), and feel free to give me some pointers (I'm always keen to learn more frontend skills!)
 
