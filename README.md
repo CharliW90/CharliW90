@@ -52,6 +52,7 @@ I've also taken on the task of 'sprucing up' an existing website for a church - 
 <p align="left">
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/datadog/datadog-original.svg" alt="datadog" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <picture>
       <source srcset="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" media="(prefers-color-scheme: light)">
