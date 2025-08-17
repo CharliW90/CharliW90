@@ -53,13 +53,7 @@ I've also taken on the task of 'sprucing up' an existing website for a church - 
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/datadog/datadog-original.svg" alt="datadog" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source srcset="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" media="(prefers-color-scheme: light)">
-      <source srcset="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" media="(prefers-color-scheme: dark)">
-      <img alt="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    </picture>
-  </a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><picture><source srcset="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" media="(prefers-color-scheme: light)"><source srcset="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" media="(prefers-color-scheme: dark)"><img alt="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></picture></a>&nbsp;&nbsp;
   <a href="https://docs.aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -67,13 +61,7 @@ I've also taken on the task of 'sprucing up' an existing website for a church - 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://discord.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="discord-js" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opentelemetry/opentelemetry-original.svg" alt="opentelemetry" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://app.circleci.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source srcset="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" width="40" height="40" media="(prefers-color-scheme: light)">
-      <source srcset="https://media.trustradius.com/product-logos/4u/4L/OCS8PRN308HT.JPEG" width="40" height="40" media="(prefers-color-scheme: dark)">
-      <img alt="aws" src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg">
-    </picture>
-  </a>&nbsp;&nbsp;
+  <a href="https://app.circleci.com/" target="_blank" rel="noreferrer"><picture><source srcset="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" width="40" height="40" media="(prefers-color-scheme: light)"><source srcset="https://media.trustradius.com/product-logos/4u/4L/OCS8PRN308HT.JPEG" width="40" height="40" media="(prefers-color-scheme: dark)"><img alt="aws" src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg"></picture></a>&nbsp;&nbsp;
   <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" alt="argo-cd" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-plain-wordmark.svg" alt="prometheus" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
